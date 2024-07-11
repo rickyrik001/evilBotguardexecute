@@ -11,9 +11,9 @@ Gmail/Gsuit login Issue This Browser or App may not be secure
 
 -If you need further help or you want a solution you can contact me on telegram or via email , solution is paid.
 
-** Contact **
-
-Telegram : (Base64) aHR0cHM6Ly90Lm1lL1JpY2t5X3JpazE=
-
-Email :    (BAse64) cmlja3lyaWtAcHJvdG9ubWFpbC5jb20=
+ ** Contact **
+    
+    Telegram : (Base64) aHR0cHM6Ly90Lm1lL1JpY2t5X3JpazE=
+  
+    Email :    (BAse64) cmlja3lyaWtAcHJvdG9ubWFpbC5jb20=
 
